@@ -1,0 +1,28 @@
+{
+    "appKeys": {
+        "KEY_VALUE": 5,
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "anoopvijayan2@gmail.com",
+    "longName": "rpad_accel",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "rpad_accel",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2acab78c-7d47-46fa-beff-d42da21fce6b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
