@@ -1,5 +1,5 @@
 ## Garbagepla.net Pebble app demo
-This is the app that sits on your pebble and talks to its andoird companion app to push markers to the garbagepla.net api.
+This is the app that sits on your pebble and talks to its [android companion app](https://github.com/garbageplanet/android) to push markers to the garbagepla.net api.
 
 ## Geting started
 
